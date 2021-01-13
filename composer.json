@@ -1,5 +1,5 @@
 {
-    "name": "cstaelen/deployer-wp-recipes",
+    "name": "authgrp/deployer-wp-recipes",
     "description": "Wordpress deployer recipes",
     "type": "library",
     "license": "MIT",
